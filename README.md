@@ -1,0 +1,1 @@
+This repository contains all the solution for the bonus tasks in Eotvos Lorand University ADA course
