@@ -1,6 +1,6 @@
 project Default is
 
-   for Source_Dirs use ("src/SecondBonus/", "src/FirstBonus/", "src");
+   for Source_Dirs use ("src/FifthBnous/", "src/ThirdBonus/", "src/SecondBonus/", "src/FirstBonus/", "src");
    for Object_Dir use "obj";
    for Main use ("main.adb");
 
