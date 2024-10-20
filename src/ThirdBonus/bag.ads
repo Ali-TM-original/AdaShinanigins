@@ -1,10 +1,3 @@
-generic
-    type Index_Type is (<>);           -- Generic index type
-   type Element_Type is private;      -- Generic element type
-   Size : Positive;                   -- Size of the array (Bag capacity)
-
-
-
 package Bag is
 
    type Bag is limited private;
